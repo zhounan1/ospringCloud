@@ -22,6 +22,7 @@ public class ProductController {
 
     @RequestMapping(value = "/get/{id}")
     public Object get(@PathVariable("id") Long id) {
+        System.out.println("请求成功");
         return productService.get(id);
     }
 
