@@ -5,6 +5,7 @@ package com.aust.service.impl;/*
 import com.aust.mapper.ProductMapper;
 import com.aust.vo.Product;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cache.annotation.Cacheable;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
 
@@ -13,30 +14,24 @@ import java.util.List;
 
 /**
  * @Autor zhouNan
- * @Date 2019/10/18 15:40
- * @Description ProductServiceImpl
+ * @Date 2019/11/5 15:44
+ * @Description ProductServiceImpl1
  **/
-/*@Service("ProductService")*/
-public class ProductServiceImpl implements ProductService {
+@Service("ProductService")
+public class ProductServiceImpl1 extends  ProductServiceImpl implements  ProductService {
     @Resource
     private ProductMapper productMapper;
-    @Autowired
-    private RedisTemplate redisTemplate;
-    private final  String  product = "product";
 
-    @Override
+
+    @Cacheable(value = "product")
     public Product get(Long id) {
-        Product  p = (Product)redisTemplate.opsForValue().get("product" + id);
-        if (p == null) {
-            Product p1 = productMapper.get(id);
-            redisTemplate.opsForValue().set("product" + id, p1 );
-            return  p1;
-        }
-        return p;
+        System.out.println("走的spirngCache");
+        return productMapper.get(id);
     }
 
     @Override
     public List<Product> list() {
         return productMapper.list();
     }
+
 }

@@ -2,12 +2,14 @@ package com.aust.vo;/*
  * Copyright © 2016 睿泰集团 版权所有
  */
 
+import java.io.Serializable;
+
 /**
  * @Autor zhouNan
  * @Date 2019/10/18 15:31
  * @Description Product
  **/
-public class Product {
+public class Product  implements Serializable {
     private String productId;
     private String productName;
     private String productDesc;
