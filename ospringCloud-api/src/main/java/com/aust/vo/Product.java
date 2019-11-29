@@ -3,12 +3,14 @@ package com.aust.vo;/*
  */
 
 
+import java.io.Serializable;
+
 /**
  * @Autor zhouNan
  * @Date 2019/10/18 15:31
  * @Description Product
  **/
-public class Product {
+public class Product  implements Serializable {
     private String productId;
     private String productName;
     private String productDesc;

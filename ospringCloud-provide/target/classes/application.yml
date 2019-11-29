@@ -6,9 +6,9 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     drive-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:33066/springcloud?serverTimezone=GMT%2B8
+    url: jdbc:mysql://106.13.125.253:3306/springcloud?serverTimezone=GMT%2B8
     username: root
-    password: 123456
+    password: 123456!
   security:
     user:
       name: admin

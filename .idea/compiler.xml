@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aust-mvc" />
+        <module name="brp-admin" />
+        <module name="brp-api" />
+        <module name="brp-auth-client" />
+        <module name="brp-auth-common" />
+        <module name="brp-auth-server" />
+        <module name="brp-common" />
+        <module name="brp-gate" />
+        <module name="brp-generator" />
+        <module name="brp-monitor" />
+        <module name="brp-tool" />
+        <module name="order" />
+        <module name="ospringCloud-api" />
+        <module name="ospringCloud-consumer" />
+        <module name="ospringCloud-provide" />
+        <module name="user" />
+        <module name="xxl-job-admin" />
+        <module name="xxl-job-core" />
+        <module name="xxl-job-executor-sample-frameless" />
+        <module name="xxl-job-executor-sample-jboot" />
+        <module name="xxl-job-executor-sample-jfinal" />
+        <module name="xxl-job-executor-sample-nutz" />
+        <module name="xxl-job-executor-sample-spring" />
+        <module name="xxl-job-executor-sample-springboot" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -11,6 +11,7 @@
     <modules>
         <module>ospringCloud-api</module>
         <module>ospringCloud-provide</module>
+        <module>ospringCloud-consumer</module>
     </modules>
 
     <properties>
@@ -48,8 +49,17 @@
                         <artifactId>ospringCloud-api</artifactId>
                         <version>1.0.0</version>
                     </dependency>
+                    <dependency>
+                        <groupId>com.github.yinjihuan</groupId>
+                        <artifactId>elastic-job-spring-boot-starter</artifactId>
+                        <version>1.0.2</version>
+                    </dependency>
+
+
                 </dependencies>
 
     </dependencyManagement>
+
+
 
 </project>

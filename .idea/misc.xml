@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/idework/aust-mvc-dubbo" />
+    <file type="web" url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" />
+    <file type="web" url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" />
+    <file type="web" url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/idework/user-zookeeper/pom.xml" />
+        <option value="D:/idework/aust-order-dubbo/pom.xml" />
+        <option value="D:/idework/aust-mvc-dubbo/pom.xml" />
+        <option value="D:/idework/aust-support-dubbo/pom.xml" />
+        <option value="F:/xxl-job/xxl-job/pom.xml" />
+        <option value="F:/brp-cloud/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/idework/aust-mvc-dubbo" charset="UTF-8" />
+    <file url="file://D:/idework/aust-order-dubbo" charset="UTF-8" />
+    <file url="file://D:/idework/aust-support-dubbo" charset="UTF-8" />
+    <file url="file://D:/idework/user-zookeeper" charset="UTF-8" />
+    <file url="file://F:/brp-cloud" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-api" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-auth" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-auth/brp-auth-client" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-auth/brp-auth-common" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-auth/brp-auth-server" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-common" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-control" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-control/brp-monitor" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-gate" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-modules" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-modules/brp-admin" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-modules/brp-generator" charset="UTF-8" />
+    <file url="file://F:/brp-cloud/brp-modules/brp-tool" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-admin" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-core" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" charset="UTF-8" />
+    <file url="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot" charset="UTF-8" />
+  </component>
+</project>

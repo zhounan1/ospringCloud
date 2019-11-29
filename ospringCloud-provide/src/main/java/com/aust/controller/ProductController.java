@@ -3,11 +3,15 @@ package com.aust.controller;/*
  */
 
 import com.aust.service.impl.ProductService;
+
+import com.aust.vo.Product;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.ModelAndView;
 
 import javax.annotation.Resource;
+
 
 /**
  * @Autor zhouNan
@@ -21,13 +25,20 @@ public class ProductController {
     private ProductService productService;
 
     @RequestMapping(value = "/get/{id}")
-    public Object get(@PathVariable("id") Long id) {
+    public ModelAndView get(@PathVariable("id") Long id) {
         System.out.println("请求成功");
-        return productService.get(id);
+        Product product = productService.get(id);
+        ModelAndView modelAndView = new ModelAndView();
+        modelAndView.setViewName("add");
+        modelAndView.addObject("product",product);
+
+        return modelAndView;
     }
 
     @RequestMapping(value = "/list")
     public Object list() {
         return productService.list();
     }
+
+
 }

@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0949575-eb7f-4bdc-b544-f4e41facfa4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ospringCloud-api/src/main/java/com/aust/vo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-api/src/main/java/com/aust/vo/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-api/target/classes/com/aust/vo/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-api/target/classes/com/aust/vo/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/ProductApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/ProductApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/redis/CacheConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/redis/CacheConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/ProductApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/ProductApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/redis/CacheConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/redis/CacheConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/ospringCloud-api/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ospringCloud-provide/target/" />
+    <ignored path="$PROJECT_DIR$/ospringCloud-consumer/target/" />
+    <ignored path="D:/idework/user-zookeeper/target/" />
+    <ignored path="D:/idework/aust-order-dubbo/target/" />
+    <ignored path="D:/idework/aust-mvc-dubbo/target/" />
+    <ignored path="D:/idework/aust-support-dubbo/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-core/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-admin/target/" />
+    <ignored path="F:/xxl-job/xxl-job/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/target/" />
+    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal/target/" />
+    <ignored path="F:/brp-cloud/brp-api/target/" />
+    <ignored path="F:/brp-cloud/target/" />
+    <ignored path="F:/brp-cloud/brp-control/target/" />
+    <ignored path="F:/brp-cloud/brp-auth/brp-auth-common/target/" />
+    <ignored path="F:/brp-cloud/brp-modules/brp-tool/target/" />
+    <ignored path="F:/brp-cloud/brp-modules/brp-admin/target/" />
+    <ignored path="F:/brp-cloud/brp-auth/brp-auth-client/target/" />
+    <ignored path="F:/brp-cloud/brp-control/brp-monitor/target/" />
+    <ignored path="F:/brp-cloud/brp-modules/brp-generator/target/" />
+    <ignored path="F:/brp-cloud/brp-gate/target/" />
+    <ignored path="F:/brp-cloud/brp-auth/brp-auth-server/target/" />
+    <ignored path="F:/brp-cloud/brp-auth/target/" />
+    <ignored path="F:/brp-cloud/brp-modules/target/" />
+    <ignored path="F:/brp-cloud/brp-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-672788136">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="4" />
+          <entry key="class" value="1" />
+          <entry key="dockerfile" value="1" />
+          <entry key="ftl" value="1" />
+          <entry key="html" value="4" />
+          <entry key="java" value="119" />
+          <entry key="js" value="1" />
+          <entry key="pom" value="3" />
+          <entry key="properties" value="2" />
+          <entry key="sh" value="1" />
+          <entry key="sql" value="4" />
+          <entry key="vm" value="3" />
+          <entry key="xml" value="37" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="23" />
+          <entry key="yml___jb_tmp___" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="FTL" value="1" />
+          <entry key="HTML" value="4" />
+          <entry key="JAVA" value="119" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="2" />
+          <entry key="SQL" value="4" />
+          <entry key="VTL" value="3" />
+          <entry key="XML" value="41" />
+          <entry key="YAML" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dockerfile" value="202" />
+          <entry key="html" value="590" />
+          <entry key="java" value="526" />
+          <entry key="xml" value="171" />
+          <entry key="yml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="590" />
+          <entry key="JAVA" value="526" />
+          <entry key="PLAIN_TEXT" value="202" />
+          <entry key="XML" value="171" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1512">
+              <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="12" column="23" selection-end-line="35" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/add.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/mapperxml/ProductMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductServiceImpl1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MYSQL_HOST</find>
+      <find>REDIS_HOST</find>
+      <find>@Con</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\brp-cloud\brp-auth\brp-auth-server\src\main\java\com\br\security\auth\biz</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ospringCloud-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ospringCloud-consumer/src/main/java/com/aust/ConsumerApp.java" />
+        <option value="$PROJECT_DIR$/ospringCloud-consumer/src/main/java/com/aust/controller/ConsumerContrller.java" />
+        <option value="$PROJECT_DIR$/ospringCloud-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ospringCloud-api/src/main/java/com/aust/vo/Product.java" />
+        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/redis/CacheConfig.java" />
+        <option value="$PROJECT_DIR$/ospringCloud-provide/dockerfile" />
+        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/ProductApp.java" />
+        <option value="F:/brp-cloud/pom.xml" />
+        <option value="F:/brp-cloud/brp-gate/src/main/java/com/br/security/gate/utils/DBLog.java" />
+        <option value="F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/controller/AuthController.java" />
+        <option value="F:/brp-cloud/brp-auth/brp-auth-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ospringCloud-provide/pom.xml" />
+        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/add.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\program\apache-maven-3.3.9\repo" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ospringCloud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ospringCloud-provide" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ospringCloud-provide" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="264" />
+    <option name="y" value="311" />
+    <option name="width" value="1559" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aust" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aust" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574844842295" />
+    <property name="last_opened_file_path" value="F:/brp-cloud/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15390626" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\clone\ospringCloud\ospringCloud-consumer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProductApp">
+    <configuration name="ConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aust.ConsumerApp" />
+      <module name="ospringCloud-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aust.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aust.ProductApp" />
+      <module name="ospringCloud-provide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aust.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brp-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.br.security.admin.AdminBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ospringCloud-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aust.ConsumerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brp-gate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.br.security.gate.GatewayServerBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonitorBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="brp-monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.br.security.monitor.MonitorBootstrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ospringCloud-provide" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aust.ProductApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.admin.XxlJobAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobExecutorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-executor-sample-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.XxlJobExecutorApplication" />
+      <item itemvalue="Spring Boot.XxlJobAdminApplication" />
+      <item itemvalue="Spring Boot.ProductApp" />
+      <item itemvalue="Spring Boot.ConsumerApp" />
+      <item itemvalue="Spring Boot.MonitorBootstrap" />
+      <item itemvalue="Spring Boot.AdminBootstrap" />
+      <item itemvalue="Spring Boot.GatewayServerBootstrap" />
+      <item itemvalue="Application.ProductApp" />
+      <item itemvalue="Application.ConsumerApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProductApp" />
+        <item itemvalue="Application.ConsumerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0949575-eb7f-4bdc-b544-f4e41facfa4b" name="Default Changelist" comment="" />
+      <created>1573528057820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573528057820</updated>
+      <workItem from="1573528059418" duration="13588000" />
+      <workItem from="1573699308542" duration="517000" />
+      <workItem from="1573713019717" duration="4000" />
+      <workItem from="1574047712810" duration="8707000" />
+      <workItem from="1574060812291" duration="2238000" />
+      <workItem from="1574125937775" duration="5450000" />
+      <workItem from="1574150072641" duration="2035000" />
+      <workItem from="1574213656786" duration="567000" />
+      <workItem from="1574226879655" duration="480000" />
+      <workItem from="1574305635395" duration="6005000" />
+      <workItem from="1574384946590" duration="4671000" />
+      <workItem from="1574834382195" duration="8676000" />
+      <workItem from="1574903483017" duration="733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53671000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22424893" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27030033" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3299356" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/db/init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1798" />
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1045" />
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/configuration/RedisConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/configuration/UserConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/configuration/WebConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/controller/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/controller/ClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/controller/ServiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/configuration/KeyConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/configuration/ClientConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/configuration/FeignConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/biz/ClientBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/mapper/ClientServiceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/AuthBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/resources/mapper/ClientMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/resources/mapper/ClientServiceMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/vo/FrontUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/biz/ClientServiceBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-auth/brp-auth-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="71" column="13" lean-forward="true" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/idework/aust-order-dubbo/src/main/resources/dubbo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/brp-admin/db/init.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/brp-admin/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/brp-admin/src/main/docker/wait-for-it.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/brp-admin/src/main/java/com/br/security/admin/biz/GateLogBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/brp-admin/src/main/java/com/br/security/admin/biz/GroupBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/brp-admin/src/main/java/com/br/security/admin/biz/ElementBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/brp-admin/src/main/java/com/br/security/admin/biz/UserBiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/brp-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/brp-modules/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/brp-cloud/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2087">
+          <caret line="118" column="20" lean-forward="true" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/austSpringBoot/austSpringBoot/1.0-SNAPSHOT/austSpringBoot-1.0-SNAPSHOT.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/idework/aust-mvc-dubbo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/idework/aust-support-dubbo/src/main/java/com/aust/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/idework/aust-support-dubbo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/idework/aust-mvc-dubbo/src/main/java/com/aust/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="48" selection-start-line="14" selection-start-column="8" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/xxl-job/xxl-job/xxl-job-admin/src/main/resources/templates/common/common.exception.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/ProductApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-thymeleaf/2.1.2.RELEASE/spring-boot-starter-thymeleaf-2.1.2.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864">
+          <caret line="10" column="56" lean-forward="true" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/mapperxml/ProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductServiceImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="12" column="23" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>annotations-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ospringCloud-consumer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
