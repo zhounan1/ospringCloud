@@ -1,6 +1,9 @@
-package rabbitmq.topic;/*
+/*
+package rabbitmq.topic;*/
+/*
  * Copyright © 2016 睿泰集团 版权所有
- */
+ *//*
+
 
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.BuiltinExchangeType;
@@ -14,11 +17,13 @@ import com.rabbitmq.client.Envelope;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
+*/
 /**
  * @Autor zhouNan
  * @Date 2020/1/7 13:27
  * @Description TopicConsumer
- **/
+ **//*
+
 public class TopicConsumer1 {
 
     public static  void main(String[] args) throws IOException, TimeoutException {
@@ -55,3 +60,4 @@ public class TopicConsumer1 {
 
     }
 }
+*/

@@ -1,6 +1,9 @@
-package rabbitmq.topic;/*
+/*
+package rabbitmq.topic;*/
+/*
  * Copyright © 2016 睿泰集团 版权所有
- */
+ *//*
+
 
 import com.rabbitmq.client.BuiltinExchangeType;
 import com.rabbitmq.client.Channel;
@@ -11,11 +14,13 @@ import com.rabbitmq.client.ConnectionFactory;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
+*/
 /**
  * @Autor zhouNan
  * @Date 2020/1/7 10:35
  * @Description TopicProducer
- **/
+ **//*
+
 public class TopicProducer {
 
     public  final static String EXCHANGE_NAME = "topic_logs";
@@ -64,3 +69,4 @@ public class TopicProducer {
 
     }
 }
+*/

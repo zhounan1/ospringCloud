@@ -1,6 +1,9 @@
-package rabbitmq.config;/*
+/*
+package rabbitmq.config;*/
+/*
  * Copyright © 2016 睿泰集团 版权所有
- */
+ *//*
+
 
 
 import org.springframework.amqp.core.Binding;
@@ -20,11 +23,13 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import rabbitmq.service.ProcessDepot;
 
+*/
 /**
  * @Autor zhouNan
  * @Date 2020/1/9 16:22
  * @Description RabbitConfig
- **/
+ **//*
+
 @Configuration
 public class RabbitConfig {
 
@@ -46,8 +51,7 @@ public class RabbitConfig {
 
     @Value("true")
     private boolean publicsherConfirms;
-    @Autowired
-    public  ProcessDepot processDepot;
+
 
 
     @Bean
@@ -132,3 +136,4 @@ public class RabbitConfig {
 
     }
 }
+*/

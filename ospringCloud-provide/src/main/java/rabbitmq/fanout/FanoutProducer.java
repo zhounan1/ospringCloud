@@ -1,6 +1,9 @@
-package rabbitmq.fanout;/*
+/*
+package rabbitmq.fanout;*/
+/*
  * Copyright © 2016 睿泰集团 版权所有
- */
+ *//*
+
 
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.BuiltinExchangeType;
@@ -15,11 +18,13 @@ import rabbitmq.direct.DirectProducer;
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
+*/
 /**
  * @Autor zhouNan
  * @Date 2020/1/7 10:21
  * @Description FanoutProducer
- **/
+ **//*
+
 public class FanoutProducer {
     public  final static String EXCHANGE_NAME = "fanout_logs";
 
@@ -42,3 +47,4 @@ public class FanoutProducer {
 
     }
 }
+*/

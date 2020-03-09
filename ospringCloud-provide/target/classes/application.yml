@@ -1,7 +1,27 @@
 server:
-  port: 8080
+  port: 80
 mybatis:
   mapper-locations: classpath:mapperxml/*Mapper.xml
+security:
+    oauth2:
+      storeType: jwt
+      clients:
+        - clientId: xiyuan
+        - clientSecret: xiyuan
+    social:
+      filter-process-url: /login
+      qq:
+        app-id: 101386962
+        app-secret: 2a0f820407df400b84a854d054be8b6a
+        provider-id: qq
+      weixin:
+        app-id: 1
+        app-secret: 1
+        provider-id: weixin
+      weibo:
+        app-id: 2
+        app-secret: 2
+        provider-id: weibo
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
@@ -9,13 +29,10 @@ spring:
     url: jdbc:mysql://106.13.125.253:3306/springcloud?serverTimezone=GMT%2B8
     username: root
     password: 123456!
-  security:
-    user:
-      name: admin
-      password: 123456
   redis:
-    host: 106.13.125.253
+    host: 127.0.0.1
     port: 6379
+    timeout: 5000
 logging:
   level:
     com.aust.mapper: debug

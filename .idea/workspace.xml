@@ -2,49 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0949575-eb7f-4bdc-b544-f4e41facfa4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ospringCloud-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-consumer/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ospringCloud-consumer/target/classes/com/aust/ConsumerApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ospringCloud-consumer/target/classes/com/aust/controller/ConsumerContrller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ospringCloud-consumer/target/classes/com/aust/controller/ConsumerController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ospringCloud-provide/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/templates/add.html" afterDir="false" />
-      <change beforePath="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java" beforeDir="false" afterPath="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/ProductApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/ProductApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/config/RabbitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/config/RabbitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/DirectProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/DirectProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/NormalConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/NormalConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/NormalConsumer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/NormalConsumer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/fanout/FanoutConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/fanout/FanoutConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/fanout/FanoutProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/fanout/FanoutProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/service/ProcessDepot.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/service/ProcessDepot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/deme.html" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/deme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/ProductApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/ProductApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/com/aust/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/config/RabbitConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/config/RabbitConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/direct/DirectProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/direct/NormalConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/direct/NormalConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/direct/NormalConsumer1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/direct/NormalConsumer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/fanout/FanoutConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/fanout/FanoutConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/fanout/FanoutProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/service/ProcessDepot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/topic/TopicConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/topic/TopicConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/topic/TopicConsumer1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/topic/TopicConsumer1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/topic/TopicProducer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/rabbitmq/topic/TopicProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ospringCloud-provide/target/classes/templates/deme.html" beforeDir="false" afterPath="$PROJECT_DIR$/ospringCloud-provide/target/classes/templates/deme.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/ospringCloud-api/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/ospringCloud-provide/target/" />
-    <ignored path="$PROJECT_DIR$/ospringCloud-consumer/target/" />
-    <ignored path="D:/idework/user-zookeeper/target/" />
-    <ignored path="D:/idework/aust-order-dubbo/target/" />
-    <ignored path="D:/idework/aust-mvc-dubbo/target/" />
-    <ignored path="D:/idework/aust-support-dubbo/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-core/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-admin/target/" />
-    <ignored path="F:/xxl-job/xxl-job/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/target/" />
-    <ignored path="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal/target/" />
-    <ignored path="F:/brp-cloud/brp-api/target/" />
-    <ignored path="F:/brp-cloud/target/" />
-    <ignored path="F:/brp-cloud/brp-control/target/" />
-    <ignored path="F:/brp-cloud/brp-auth/brp-auth-common/target/" />
-    <ignored path="F:/brp-cloud/brp-modules/brp-tool/target/" />
-    <ignored path="F:/brp-cloud/brp-modules/brp-admin/target/" />
-    <ignored path="F:/brp-cloud/brp-auth/brp-auth-client/target/" />
-    <ignored path="F:/brp-cloud/brp-control/brp-monitor/target/" />
-    <ignored path="F:/brp-cloud/brp-modules/brp-generator/target/" />
-    <ignored path="F:/brp-cloud/brp-gate/target/" />
-    <ignored path="F:/brp-cloud/brp-auth/brp-auth-server/target/" />
-    <ignored path="F:/brp-cloud/brp-auth/target/" />
-    <ignored path="F:/brp-cloud/brp-modules/target/" />
-    <ignored path="F:/brp-cloud/brp-common/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,204 +63,8 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-672788136">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="28" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.138" value="1" />
-          <entry key="project.open.time.142" value="1" />
-          <entry key="project.open.time.159" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="2" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.32" value="2" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.63" value="1" />
-          <entry key="project.open.time.68" value="1" />
-          <entry key="project.open.time.76" value="1" />
-          <entry key="project.open.time.85" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.open.time.97" value="1" />
-          <entry key="project.opened" value="28" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="Dockerfile" value="7" />
-          <entry key="class" value="10" />
-          <entry key="dockerfile" value="1" />
-          <entry key="ftl" value="1" />
-          <entry key="html" value="15" />
-          <entry key="java" value="190" />
-          <entry key="js" value="1" />
-          <entry key="pom" value="4" />
-          <entry key="properties" value="2" />
-          <entry key="sh" value="1" />
-          <entry key="sql" value="4" />
-          <entry key="vm" value="3" />
-          <entry key="xml" value="50" />
-          <entry key="xsd" value="1" />
-          <entry key="yml" value="28" />
-          <entry key="yml___jb_tmp___" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="10" />
-          <entry key="FTL" value="1" />
-          <entry key="HTML" value="15" />
-          <entry key="JAVA" value="190" />
-          <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Properties" value="2" />
-          <entry key="SQL" value="4" />
-          <entry key="VTL" value="3" />
-          <entry key="XML" value="55" />
-          <entry key="YAML" value="28" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dockerfile" value="202" />
-          <entry key="html" value="591" />
-          <entry key="java" value="4611" />
-          <entry key="xml" value="259" />
-          <entry key="yml" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="591" />
-          <entry key="JAVA" value="4611" />
-          <entry key="PLAIN_TEXT" value="202" />
-          <entry key="XML" value="259" />
-          <entry key="YAML" value="5" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/DirectProducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicProducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-41">
-              <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/config/RabbitConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="94" column="71" selection-start-line="94" selection-start-column="71" selection-end-line="94" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2363#2364#0" expanded="true" />
-                <element signature="e#2404#2405#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.0.RELEASE/spring-rabbit-2.0.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/listener/AbstractMessageListenerContainer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="381" column="26" selection-start-line="381" selection-start-column="26" selection-end-line="381" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/service/ProcessDepot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-consumer/src/main/java/com/aust/controller/ConsumerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-api/src/main/java/com/aust/vo/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ospringCloud-provide/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FavoritesManager">
+    <favorites_list name="ospringCloud" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -272,264 +75,73 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>MYSQL_HOST</find>
-      <find>REDIS_HOST</find>
-      <find>@Con</find>
-      <find>rabbitmq</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>F:\brp-cloud\brp-auth\brp-auth-server\src\main\java\com\br\security\auth\biz</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/ospringCloud-consumer/src/main/java/com/aust/ConsumerApp.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-consumer/src/main/java/com/aust/controller/ConsumerContrller.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/ospringCloud-api/src/main/java/com/aust/vo/Product.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/redis/CacheConfig.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/dockerfile" />
-        <option value="F:/brp-cloud/pom.xml" />
-        <option value="F:/brp-cloud/brp-gate/src/main/java/com/br/security/gate/utils/DBLog.java" />
-        <option value="F:/brp-cloud/brp-auth/brp-auth-server/src/main/java/com/br/security/auth/controller/AuthController.java" />
-        <option value="F:/brp-cloud/brp-auth/brp-auth-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/static/index.html" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/deme.html" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/add.html" />
-        <option value="D:/idework/aust-order-dubbo/src/main/resources/dubbo.xml" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/ProductApp.java" />
-        <option value="F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/thread/RunbleTest.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/thread/Express.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/thread/Test1.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/thread/Test2.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/DirectProducer.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/fanout/FanoutProducer.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/fanout/FanoutConsumer.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicProducer.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/NormalConsumer1.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/NormalConsumer.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer1.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-consumer/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/ospringCloud-consumer/src/main/java/com/aust/controller/ConsumerController.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/pom.xml" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/service/ProcessDepot.java" />
-        <option value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/config/RabbitConfig.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="D:\develop\program\apache-maven-3.3.9\repo" />
-        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ospringCloud-provide" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1559" />
-    <option name="height" value="1000" />
-  </component>
+  <component name="ProjectId" id="1YElyGAFUk6QHL2qkMD5Jibzekv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="direct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="fanout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
-              <item name="topic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ospringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ospringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ospringCloud-provide" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582265689891" />
-    <property name="last_opened_file_path" value="F:/brp-cloud/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/security/qq" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15390626" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.aust.security.jwt" />
+      <recent name="com.aust.vo" />
+      <recent name="com.aust.mapper" />
+      <recent name="com.aust.service.impl" />
       <recent name="rabbitmq.direct" />
-      <recent name="rabbitmq.topic" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ospringcloud\ospringCloud\ospringCloud-provide\src\main\java\com\aust\security\qq" />
+      <recent name="E:\ospringcloud\ospringCloud\ospringCloud-provide\src\main\java\com\aust\utils" />
+      <recent name="E:\ospringcloud\ospringCloud\ospringCloud-provide\src\main\resources\mapperxml" />
+      <recent name="E:\ospringcloud\ospringCloud\ospringCloud-provide\src\main\java\com\aust\swaggerController" />
       <recent name="F:\clone\ospringCloud\ospringCloud-consumer\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TopicProducer">
+  <component name="RunManager" selected="Spring Boot.ProductApp">
     <configuration name="DirectProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rabbitmq.direct.DirectProducer" />
       <module name="ospringCloud-provide" />
@@ -645,6 +257,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TopicProducer" />
+      <item itemvalue="Application.NormalConsumer" />
+      <item itemvalue="Application.DirectProducer" />
+      <item itemvalue="Application.TopicConsumer" />
+      <item itemvalue="Application.TopicConsumer1" />
       <item itemvalue="Spring Boot.XxlJobExecutorApplication" />
       <item itemvalue="Spring Boot.XxlJobAdminApplication" />
       <item itemvalue="Spring Boot.ProductApp" />
@@ -652,11 +269,6 @@
       <item itemvalue="Spring Boot.MonitorBootstrap" />
       <item itemvalue="Spring Boot.AdminBootstrap" />
       <item itemvalue="Spring Boot.GatewayServerBootstrap" />
-      <item itemvalue="Application.TopicProducer" />
-      <item itemvalue="Application.NormalConsumer" />
-      <item itemvalue="Application.DirectProducer" />
-      <item itemvalue="Application.TopicConsumer" />
-      <item itemvalue="Application.TopicConsumer1" />
     </list>
     <recent_temporary>
       <list>
@@ -706,589 +318,182 @@
       <workItem from="1578621772378" duration="164000" />
       <workItem from="1578636915034" duration="1426000" />
       <workItem from="1582262071336" duration="2479000" />
+      <workItem from="1582515893906" duration="5698000" />
+      <workItem from="1582530242758" duration="4758000" />
+      <workItem from="1582616901974" duration="10301000" />
+      <workItem from="1582698622875" duration="15935000" />
+      <workItem from="1582779084943" duration="23130000" />
+      <workItem from="1582805941212" duration="491000" />
+      <workItem from="1582865009930" duration="8372000" />
+      <workItem from="1582876943480" duration="4017000" />
+      <workItem from="1582885657132" duration="9578000" />
+      <workItem from="1582947890587" duration="4420000" />
+      <workItem from="1583157017524" duration="255000" />
+      <workItem from="1583491821674" duration="6298000" />
+      <workItem from="1583500213193" duration="216000" />
+      <workItem from="1583500458098" duration="1094000" />
+      <workItem from="1583552950639" duration="14154000" />
+      <workItem from="1583577662861" duration="16037000" />
+      <workItem from="1583635498928" duration="2387000" />
+      <workItem from="1583643709352" duration="867000" />
+      <workItem from="1583645613994" duration="5827000" />
+      <workItem from="1583663965825" duration="3991000" />
+      <workItem from="1583731709609" duration="862000" />
+      <workItem from="1583732792184" duration="9278000" />
+      <workItem from="1583742314257" duration="528000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164218000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27092275" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946466" weight="0.29365963" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976826" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32908458" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.1134594" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005353" side_tool="true" weight="0.31865585" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.41268075" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49946466" weight="0.32908458" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.3299356" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Bean Validation" order="8" weight="0.3299356" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3299356" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26233906" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946466" weight="0.29365963" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976826" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32908458" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.32908458" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33256084" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005353" side_tool="true" weight="0.31865585" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.13125695" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49946466" weight="0.32908458" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.3299356" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Bean Validation" order="8" weight="0.3299356" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3299356" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1582528321220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1582528321220" />
+    <state x="176" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582881810675">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="176" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582881810675" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1582782124617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582782124617" />
+    <state x="451" y="181" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582533329596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="451" y="181" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582533329596" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583557970034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583557970034" />
+    <state width="723" height="452" key="DebuggerActiveHint" timestamp="1583580299701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="723" height="452" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1583580299701" />
+    <state x="414" y="73" key="DetectedRootsChooserDialog" timestamp="1582531471759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="73" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582531471759" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1582714364870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1582714364870" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582535941353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582535941353" />
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.1.bottom" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.1.center" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.1.left" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.1.right" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.2.bottom" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.2.center" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.2.left" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state width="1323" height="167" key="GridCell.Tab.2.right" timestamp="1583742996546">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="167" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1583742996546" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1582779972507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1582779972507" />
+    <state x="379" y="85" key="RollbackChangesDialog" timestamp="1582793288511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="85" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1582793288511" />
+    <state x="267" y="11" width="994" height="717" key="SettingsEditor" timestamp="1583647750126">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="267" y="11" width="994" height="717" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583647750126" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583742312592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583742312592" />
+    <state x="290" y="64" width="944" height="600" key="find.popup" timestamp="1583740861298">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="290" y="64" width="944" height="600" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583740861298" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1583739994318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583739994318" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583732402621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583732402621" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/config/MyUserDetailService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/LoginServiceImpl.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/security/authention/SAuthenticationSuccessHandler.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/security/config/MyOAuthConfiguration.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/social/spring-social-security/1.1.6.RELEASE/spring-social-security-1.1.6.RELEASE-sources.jar!/org/springframework/social/security/SocialAuthenticationFilter.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://D:/idework/aust-order-dubbo/src/main/resources/dubbo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE-sources.jar!/org/springframework/web/servlet/ModelAndView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="287" column="24" selection-start-line="287" selection-start-column="24" selection-end-line="287" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.4.RELEASE/spring-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1-sources.jar!/org/mybatis/spring/annotation/MapperScan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/static/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="1044" column="42" lean-forward="true" selection-start-line="1044" selection-start-column="42" selection-end-line="1044" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/thread/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/thread/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/ProductApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.0.0/amqp-client-5.0.0.jar!/com/rabbitmq/client/impl/AMQConnection.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.0.0/amqp-client-5.0.0.jar!/com/rabbitmq/client/Channel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="201" column="9" selection-start-line="201" selection-start-column="9" selection-end-line="201" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/NormalConsumer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/fanout/FanoutConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/deme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/mapperxml/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-consumer/src/main/java/com/aust/ConsumerApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/xxl-job/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/java/com/xxl/job/executor/core/config/XxlJobConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/mapper/ProductMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.1.RELEASE/spring-web-4.3.1.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.0.RELEASE/spring-rabbit-2.0.0.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.0.0/amqp-client-5.0.0.jar!/com/rabbitmq/client/ConnectionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.0.RELEASE/spring-rabbit-2.0.0.RELEASE.jar!/org/springframework/amqp/rabbit/connection/CachingConnectionFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/redis/CacheConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.0.RELEASE/spring-rabbit-2.0.0.RELEASE.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37935">
-          <caret line="1548" column="24" selection-start-line="1548" selection-start-column="5" selection-end-line="1548" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="69" column="20" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-consumer/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/fanout/FanoutProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="37" column="64" selection-start-line="37" selection-start-column="61" selection-end-line="37" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/resources/templates/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/controller/ProductController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/com/aust/service/impl/ProductServiceImpl1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/thread/Express.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/thread/RunbleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/NormalConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="33" column="58" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-consumer/src/main/java/com/aust/controller/ConsumerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-api/src/main/java/com/aust/vo/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.0.RELEASE/spring-rabbit-2.0.0.RELEASE.jar!/org/springframework/amqp/rabbit/listener/AbstractMessageListenerContainer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="240" column="50" selection-start-line="240" selection-start-column="35" selection-end-line="240" selection-end-column="50" />
-          <folding>
-            <element signature="e#10922#10923#0" expanded="true" />
-            <element signature="e#10976#10977#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41">
-          <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/topic/TopicConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-rabbit/2.0.0.RELEASE/spring-rabbit-2.0.0.RELEASE-sources.jar!/org/springframework/amqp/rabbit/listener/AbstractMessageListenerContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="381" column="26" selection-start-line="381" selection-start-column="26" selection-end-line="381" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/direct/DirectProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/service/ProcessDepot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ospringCloud-provide/src/main/java/rabbitmq/config/RabbitConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="94" column="71" selection-start-line="94" selection-start-column="71" selection-end-line="94" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2363#2364#0" expanded="true" />
-            <element signature="e#2404#2405#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>aust-mvc:war</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>annotations-api</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>aust-mvc</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
